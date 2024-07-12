@@ -1,0 +1,6 @@
+- 👋 Olá, eu sou @mPaula-csilva
+- 👀 Eu tenho interesse em HTMl, CSS, JavaScript, Python, php, API, node.js e react.js
+- 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript
+- 💞️ Procuro colaborar em websites
+- 📫 Como chegar até mim, email: ampc6565@gmail.com
+- 😄 Pronomes: ela/dela
